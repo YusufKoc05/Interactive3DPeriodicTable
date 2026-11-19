@@ -1,0 +1,248 @@
+[
+  {
+    "atomicNumber": 1,
+    "symbol": "H",
+    "name": "Hidrojen / Hydrogen",
+    "dischargeColorHex": "#e066ff",
+    "lines": [
+      { "wavelength": 656.3, "intensity": 1.0 },
+      { "wavelength": 486.1, "intensity": 0.8 },
+      { "wavelength": 434.0, "intensity": 0.5 },
+      { "wavelength": 410.2, "intensity": 0.3 }
+    ]
+  },
+  {
+    "atomicNumber": 2,
+    "symbol": "He",
+    "name": "Helyum / Helium",
+    "dischargeColorHex": "#ffd9aa",
+    "lines": [
+      { "wavelength": 388.9, "intensity": 0.4 },
+      { "wavelength": 447.1, "intensity": 0.7 },
+      { "wavelength": 471.3, "intensity": 0.4 },
+      { "wavelength": 501.6, "intensity": 0.6 },
+      { "wavelength": 587.6, "intensity": 1.0 },
+      { "wavelength": 667.8, "intensity": 0.8 },
+      { "wavelength": 706.5, "intensity": 0.7 }
+    ]
+  },
+  {
+    "atomicNumber": 3,
+    "symbol": "Li",
+    "name": "Lityum / Lithium",
+    "dischargeColorHex": "#ff2244",
+    "lines": [
+      { "wavelength": 670.8, "intensity": 1.0 },
+      { "wavelength": 610.4, "intensity": 0.4 },
+      { "wavelength": 460.3, "intensity": 0.3 }
+    ]
+  },
+  {
+    "atomicNumber": 6,
+    "symbol": "C",
+    "name": "Karbon / Carbon",
+    "dischargeColorHex": "#aaddff",
+    "lines": [
+      { "wavelength": 426.7, "intensity": 0.6 },
+      { "wavelength": 505.2, "intensity": 0.5 },
+      { "wavelength": 538.0, "intensity": 0.7 },
+      { "wavelength": 658.8, "intensity": 0.8 }
+    ]
+  },
+  {
+    "atomicNumber": 7,
+    "symbol": "N",
+    "name": "Azot / Nitrogen",
+    "dischargeColorHex": "#ccaaff",
+    "lines": [
+      { "wavelength": 391.4, "intensity": 0.5 },
+      { "wavelength": 427.8, "intensity": 0.7 },
+      { "wavelength": 500.5, "intensity": 0.6 },
+      { "wavelength": 568.0, "intensity": 0.5 },
+      { "wavelength": 661.1, "intensity": 0.8 }
+    ]
+  },
+  {
+    "atomicNumber": 8,
+    "symbol": "O",
+    "name": "Oksijen / Oxygen",
+    "dischargeColorHex": "#88eeff",
+    "lines": [
+      { "wavelength": 436.8, "intensity": 0.4 },
+      { "wavelength": 557.7, "intensity": 0.9 },
+      { "wavelength": 630.0, "intensity": 1.0 },
+      { "wavelength": 636.4, "intensity": 0.7 }
+    ]
+  },
+  {
+    "atomicNumber": 10,
+    "symbol": "Ne",
+    "name": "Neon",
+    "dischargeColorHex": "#ff3b00",
+    "lines": [
+      { "wavelength": 585.2, "intensity": 0.8 },
+      { "wavelength": 594.5, "intensity": 0.6 },
+      { "wavelength": 614.3, "intensity": 0.9 },
+      { "wavelength": 626.6, "intensity": 0.7 },
+      { "wavelength": 633.4, "intensity": 0.8 },
+      { "wavelength": 640.2, "intensity": 1.0 },
+      { "wavelength": 650.7, "intensity": 0.7 },
+      { "wavelength": 659.9, "intensity": 0.6 },
+      { "wavelength": 703.2, "intensity": 0.9 }
+    ]
+  },
+  {
+    "atomicNumber": 11,
+    "symbol": "Na",
+    "name": "Sodyum / Sodium",
+    "dischargeColorHex": "#ffcc00",
+    "lines": [
+      { "wavelength": 589.0, "intensity": 1.0 },
+      { "wavelength": 589.6, "intensity": 0.95 },
+      { "wavelength": 568.8, "intensity": 0.2 },
+      { "wavelength": 615.4, "intensity": 0.15 }
+    ]
+  },
+  {
+    "atomicNumber": 12,
+    "symbol": "Mg",
+    "name": "Magnezyum / Magnesium",
+    "dischargeColorHex": "#ffffff",
+    "lines": [
+      { "wavelength": 516.7, "intensity": 0.8 },
+      { "wavelength": 517.3, "intensity": 0.9 },
+      { "wavelength": 518.4, "intensity": 1.0 }
+    ]
+  },
+  {
+    "atomicNumber": 18,
+    "symbol": "Ar",
+    "name": "Argon",
+    "dischargeColorHex": "#9977ff",
+    "lines": [
+      { "wavelength": 415.9, "intensity": 0.6 },
+      { "wavelength": 420.1, "intensity": 0.7 },
+      { "wavelength": 696.5, "intensity": 0.8 },
+      { "wavelength": 706.7, "intensity": 0.85 },
+      { "wavelength": 750.4, "intensity": 1.0 }
+    ]
+  },
+  {
+    "atomicNumber": 19,
+    "symbol": "K",
+    "name": "Potasyum / Potassium",
+    "dischargeColorHex": "#bb77ff",
+    "lines": [
+      { "wavelength": 404.4, "intensity": 0.5 },
+      { "wavelength": 766.5, "intensity": 1.0 },
+      { "wavelength": 769.9, "intensity": 0.8 }
+    ]
+  },
+  {
+    "atomicNumber": 20,
+    "symbol": "Ca",
+    "name": "Kalsiyum / Calcium",
+    "dischargeColorHex": "#ff8844",
+    "lines": [
+      { "wavelength": 393.4, "intensity": 0.7 },
+      { "wavelength": 396.8, "intensity": 0.6 },
+      { "wavelength": 422.7, "intensity": 1.0 },
+      { "wavelength": 616.2, "intensity": 0.5 }
+    ]
+  },
+  {
+    "atomicNumber": 22,
+    "symbol": "Ti",
+    "name": "Titanyum / Titanium",
+    "dischargeColorHex": "#ddf0ff",
+    "lines": [
+      { "wavelength": 498.2, "intensity": 0.8 },
+      { "wavelength": 499.1, "intensity": 0.7 },
+      { "wavelength": 500.7, "intensity": 0.6 },
+      { "wavelength": 519.3, "intensity": 0.9 }
+    ]
+  },
+  {
+    "atomicNumber": 26,
+    "symbol": "Fe",
+    "name": "Demir / Iron",
+    "dischargeColorHex": "#ffeeaa",
+    "lines": [
+      { "wavelength": 404.6, "intensity": 0.6 },
+      { "wavelength": 438.4, "intensity": 0.7 },
+      { "wavelength": 495.8, "intensity": 0.65 },
+      { "wavelength": 526.9, "intensity": 0.8 }
+    ]
+  },
+  {
+    "atomicNumber": 29,
+    "symbol": "Cu",
+    "name": "Bakır / Copper",
+    "dischargeColorHex": "#44ffaa",
+    "lines": [
+      { "wavelength": 510.6, "intensity": 1.0 },
+      { "wavelength": 515.3, "intensity": 0.8 },
+      { "wavelength": 521.8, "intensity": 0.9 },
+      { "wavelength": 578.2, "intensity": 0.7 }
+    ]
+  },
+  {
+    "atomicNumber": 36,
+    "symbol": "Kr",
+    "name": "Kripton / Krypton",
+    "dischargeColorHex": "#e6f2ff",
+    "lines": [
+      { "wavelength": 427.4, "intensity": 0.6 },
+      { "wavelength": 557.0, "intensity": 0.9 },
+      { "wavelength": 587.1, "intensity": 0.8 },
+      { "wavelength": 760.2, "intensity": 0.7 }
+    ]
+  },
+  {
+    "atomicNumber": 47,
+    "symbol": "Ag",
+    "name": "Gümüş / Silver",
+    "dischargeColorHex": "#ccf0ff",
+    "lines": [
+      { "wavelength": 520.9, "intensity": 0.8 },
+      { "wavelength": 546.5, "intensity": 1.0 },
+      { "wavelength": 328.1, "intensity": 0.6 }
+    ]
+  },
+  {
+    "atomicNumber": 54,
+    "symbol": "Xe",
+    "name": "Ksenon / Xenon",
+    "dischargeColorHex": "#66aaff",
+    "lines": [
+      { "wavelength": 462.4, "intensity": 0.7 },
+      { "wavelength": 467.1, "intensity": 0.8 },
+      { "wavelength": 480.7, "intensity": 0.9 },
+      { "wavelength": 823.2, "intensity": 1.0 }
+    ]
+  },
+  {
+    "atomicNumber": 79,
+    "symbol": "Au",
+    "name": "Altın / Gold",
+    "dischargeColorHex": "#ffd700",
+    "lines": [
+      { "wavelength": 479.3, "intensity": 0.6 },
+      { "wavelength": 583.7, "intensity": 0.8 },
+      { "wavelength": 627.8, "intensity": 0.9 }
+    ]
+  },
+  {
+    "atomicNumber": 80,
+    "symbol": "Hg",
+    "name": "Cıva / Mercury",
+    "dischargeColorHex": "#66e6ff",
+    "lines": [
+      { "wavelength": 404.7, "intensity": 0.5 },
+      { "wavelength": 435.8, "intensity": 0.9 },
+      { "wavelength": 546.1, "intensity": 1.0 },
+      { "wavelength": 577.0, "intensity": 0.7 },
+      { "wavelength": 579.1, "intensity": 0.65 }
+    ]
+  }
+]

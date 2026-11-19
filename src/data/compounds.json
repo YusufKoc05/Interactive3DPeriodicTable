@@ -1,0 +1,235 @@
+[
+  {
+    "id": "h2o",
+    "formula": "H₂O",
+    "nameTr": "Su",
+    "nameEn": "Water",
+    "elements": { "H": 2, "O": 1 },
+    "bondType": "polar_covalent",
+    "deltaElectronegativity": 1.24,
+    "descriptionTr": "Yaşamın temeli olan polar kovalent molekül. 104.5° kırık doğru geometrisi ve güçlü hidrojen bağları oluşturma kabiliyeti vardır.",
+    "descriptionEn": "Essential polar covalent molecule of life. Has 104.5° bent geometry and strong hydrogen bonding capability.",
+    "geometry": "Kırık Doğru (Bent, 104.5°)",
+    "atoms": [
+      { "elementSymbol": "O", "position": [0, 0, 0], "label": "O", "cpkColor": "#ff0d0d" },
+      { "elementSymbol": "H", "position": [-0.76, 0.59, 0], "label": "H₁", "cpkColor": "#ffffff" },
+      { "elementSymbol": "H", "position": [0.76, 0.59, 0], "label": "H₂", "cpkColor": "#ffffff" }
+    ],
+    "bonds": [
+      { "fromIndex": 0, "toIndex": 1, "order": 1, "type": "polar_covalent" },
+      { "fromIndex": 0, "toIndex": 2, "order": 1, "type": "polar_covalent" }
+    ]
+  },
+  {
+    "id": "co2",
+    "formula": "CO₂",
+    "nameTr": "Karbondioksit",
+    "nameEn": "Carbon Dioxide",
+    "elements": { "C": 1, "O": 2 },
+    "bondType": "polar_covalent",
+    "deltaElectronegativity": 0.89,
+    "descriptionTr": "Fotosentez ve hücresel solunumun temel gazı. 180° doğrusal geometriye sahip olup simetriden dolayı net dipol momenti sıfırdır.",
+    "descriptionEn": "Key gas of photosynthesis and cellular respiration. Linear 180° geometry with zero net dipole moment due to symmetry.",
+    "geometry": "Doğrusal (Linear, 180°)",
+    "atoms": [
+      { "elementSymbol": "C", "position": [0, 0, 0], "label": "C", "cpkColor": "#555555" },
+      { "elementSymbol": "O", "position": [-1.16, 0, 0], "label": "O₁", "cpkColor": "#ff0d0d" },
+      { "elementSymbol": "O", "position": [1.16, 0, 0], "label": "O₂", "cpkColor": "#ff0d0d" }
+    ],
+    "bonds": [
+      { "fromIndex": 0, "toIndex": 1, "order": 2, "type": "polar_covalent" },
+      { "fromIndex": 0, "toIndex": 2, "order": 2, "type": "polar_covalent" }
+    ]
+  },
+  {
+    "id": "ch4",
+    "formula": "CH₄",
+    "nameTr": "Metan",
+    "nameEn": "Methane",
+    "elements": { "C": 1, "H": 4 },
+    "bondType": "covalent",
+    "deltaElectronegativity": 0.35,
+    "descriptionTr": "Doğal gazın ana bileşeni. Karbon sp³ hibritleşmesi ile 109.5° bağ açılı kusursuz bir düzgün dörtyüzlü (tetrahedral) oluşturur.",
+    "descriptionEn": "Main component of natural gas. Forms a perfect tetrahedral geometry with 109.5° bond angles via sp³ hybridization.",
+    "geometry": "Dörtyüzlü (Tetrahedral, 109.5°)",
+    "atoms": [
+      { "elementSymbol": "C", "position": [0, 0, 0], "label": "C", "cpkColor": "#555555" },
+      { "elementSymbol": "H", "position": [0.63, 0.63, 0.63], "label": "H₁", "cpkColor": "#ffffff" },
+      { "elementSymbol": "H", "position": [-0.63, -0.63, 0.63], "label": "H₂", "cpkColor": "#ffffff" },
+      { "elementSymbol": "H", "position": [-0.63, 0.63, -0.63], "label": "H₃", "cpkColor": "#ffffff" },
+      { "elementSymbol": "H", "position": [0.63, -0.63, -0.63], "label": "H₄", "cpkColor": "#ffffff" }
+    ],
+    "bonds": [
+      { "fromIndex": 0, "toIndex": 1, "order": 1, "type": "covalent" },
+      { "fromIndex": 0, "toIndex": 2, "order": 1, "type": "covalent" },
+      { "fromIndex": 0, "toIndex": 3, "order": 1, "type": "covalent" },
+      { "fromIndex": 0, "toIndex": 4, "order": 1, "type": "covalent" }
+    ]
+  },
+  {
+    "id": "nacl",
+    "formula": "NaCl",
+    "nameTr": "Sodyum Klorür (Sofra Tuzu)",
+    "nameEn": "Sodium Chloride",
+    "elements": { "Na": 1, "Cl": 1 },
+    "bondType": "ionic",
+    "deltaElectronegativity": 2.23,
+    "descriptionTr": "Klasik iyonik bileşik. Na⁺ ve Cl⁻ iyonları arasında güçlü elektrostatik çekim kuvveti ve kübik kristal kafes örgüsü vardır.",
+    "descriptionEn": "Archetypal ionic compound. Strong electrostatic attraction between Na⁺ and Cl⁻ ions forming a face-centered cubic lattice.",
+    "geometry": "İyonik Çift / Kübik Birim (Ionic Dipole)",
+    "atoms": [
+      { "elementSymbol": "Na", "position": [-0.85, 0, 0], "label": "Na⁺", "cpkColor": "#ab5cf2" },
+      { "elementSymbol": "Cl", "position": [0.85, 0, 0], "label": "Cl⁻", "cpkColor": "#1ff01f" }
+    ],
+    "bonds": [
+      { "fromIndex": 0, "toIndex": 1, "order": 1, "type": "ionic" }
+    ]
+  },
+  {
+    "id": "nh3",
+    "formula": "NH₃",
+    "nameTr": "Amonyak",
+    "nameEn": "Ammonia",
+    "elements": { "N": 1, "H": 3 },
+    "bondType": "polar_covalent",
+    "deltaElectronegativity": 0.84,
+    "descriptionTr": "Gübre ve temizlik endüstrisinin kilit molekülü. Azottaki 1 çift ortaklanmamış elektron bağı aşağı iterek 107° üçgen piramit oluşturur.",
+    "descriptionEn": "Crucial for fertilizers. Nitrogen's lone pair repels bonded hydrogens to yield a 107° trigonal pyramidal geometry.",
+    "geometry": "Üçgen Piramit (Trigonal Pyramidal, 107°)",
+    "atoms": [
+      { "elementSymbol": "N", "position": [0, 0, 0.2], "label": "N", "cpkColor": "#3050f8" },
+      { "elementSymbol": "H", "position": [0.94, 0, -0.27], "label": "H₁", "cpkColor": "#ffffff" },
+      { "elementSymbol": "H", "position": [-0.47, 0.81, -0.27], "label": "H₂", "cpkColor": "#ffffff" },
+      { "elementSymbol": "H", "position": [-0.47, -0.81, -0.27], "label": "H₃", "cpkColor": "#ffffff" }
+    ],
+    "bonds": [
+      { "fromIndex": 0, "toIndex": 1, "order": 1, "type": "polar_covalent" },
+      { "fromIndex": 0, "toIndex": 2, "order": 1, "type": "polar_covalent" },
+      { "fromIndex": 0, "toIndex": 3, "order": 1, "type": "polar_covalent" }
+    ]
+  },
+  {
+    "id": "hcl",
+    "formula": "HCl",
+    "nameTr": "Hidrojen Klorür (Tuz Ruhu)",
+    "nameEn": "Hydrogen Chloride",
+    "elements": { "H": 1, "Cl": 1 },
+    "bondType": "polar_covalent",
+    "deltaElectronegativity": 0.96,
+    "descriptionTr": "Suda çözündüğünde kuvvetli asit oluşturan iki atomlu polar kovalent gaz.",
+    "descriptionEn": "Diatomic polar covalent gas which dissociates into a strong acid in aqueous solutions.",
+    "geometry": "Doğrusal (Linear)",
+    "atoms": [
+      { "elementSymbol": "H", "position": [-0.64, 0, 0], "label": "H", "cpkColor": "#ffffff" },
+      { "elementSymbol": "Cl", "position": [0.64, 0, 0], "label": "Cl", "cpkColor": "#1ff01f" }
+    ],
+    "bonds": [
+      { "fromIndex": 0, "toIndex": 1, "order": 1, "type": "polar_covalent" }
+    ]
+  },
+  {
+    "id": "o2",
+    "formula": "O₂",
+    "nameTr": "Oksijen Gazı",
+    "nameEn": "Diatomic Oxygen",
+    "elements": { "O": 2 },
+    "bondType": "covalent",
+    "deltaElectronegativity": 0.0,
+    "descriptionTr": "Atmosferin %21'ini oluşturan, iki oksijen atomu arasında ikili bağ (O=O) içeren apolar molekül.",
+    "descriptionEn": "Makes up 21% of Earth's atmosphere, contains a covalent double bond (O=O).",
+    "geometry": "Doğrusal (Linear)",
+    "atoms": [
+      { "elementSymbol": "O", "position": [-0.6, 0, 0], "label": "O₁", "cpkColor": "#ff0d0d" },
+      { "elementSymbol": "O", "position": [0.6, 0, 0], "label": "O₂", "cpkColor": "#ff0d0d" }
+    ],
+    "bonds": [
+      { "fromIndex": 0, "toIndex": 1, "order": 2, "type": "covalent" }
+    ]
+  },
+  {
+    "id": "n2",
+    "formula": "N₂",
+    "nameTr": "Azot Gazı",
+    "nameEn": "Diatomic Nitrogen",
+    "elements": { "N": 2 },
+    "bondType": "covalent",
+    "deltaElectronegativity": 0.0,
+    "descriptionTr": "Atmosferin %78'ini oluşturan, son derece kararlı ve kırılması zor güçlü üçlü bağ (N≡N) içeren apolar molekül.",
+    "descriptionEn": "Constitutes 78% of the atmosphere, tightly bound by a very strong covalent triple bond (N≡N).",
+    "geometry": "Doğrusal (Linear)",
+    "atoms": [
+      { "elementSymbol": "N", "position": [-0.55, 0, 0], "label": "N₁", "cpkColor": "#3050f8" },
+      { "elementSymbol": "N", "position": [0.55, 0, 0], "label": "N₂", "cpkColor": "#3050f8" }
+    ],
+    "bonds": [
+      { "fromIndex": 0, "toIndex": 1, "order": 3, "type": "covalent" }
+    ]
+  },
+  {
+    "id": "c2h4",
+    "formula": "C₂H₄",
+    "nameTr": "Etilen",
+    "nameEn": "Ethylene",
+    "elements": { "C": 2, "H": 4 },
+    "bondType": "covalent",
+    "deltaElectronegativity": 0.35,
+    "descriptionTr": "Polietilen plastiklerin hammaddesi. Karbon atomları arasında bir sigma ve bir pi bağı (ikili bağ C=C) barındıran düzlemsel molekül.",
+    "descriptionEn": "Precursor to polyethylene. Planar molecule containing a carbon-carbon double bond (C=C).",
+    "geometry": "Düzlemsel (Planar, 120°)",
+    "atoms": [
+      { "elementSymbol": "C", "position": [-0.67, 0, 0], "label": "C₁", "cpkColor": "#555555" },
+      { "elementSymbol": "C", "position": [0.67, 0, 0], "label": "C₂", "cpkColor": "#555555" },
+      { "elementSymbol": "H", "position": [-1.23, 0.93, 0], "label": "H₁", "cpkColor": "#ffffff" },
+      { "elementSymbol": "H", "position": [-1.23, -0.93, 0], "label": "H₂", "cpkColor": "#ffffff" },
+      { "elementSymbol": "H", "position": [1.23, 0.93, 0], "label": "H₃", "cpkColor": "#ffffff" },
+      { "elementSymbol": "H", "position": [1.23, -0.93, 0], "label": "H₄", "cpkColor": "#ffffff" }
+    ],
+    "bonds": [
+      { "fromIndex": 0, "toIndex": 1, "order": 2, "type": "covalent" },
+      { "fromIndex": 0, "toIndex": 2, "order": 1, "type": "covalent" },
+      { "fromIndex": 0, "toIndex": 3, "order": 1, "type": "covalent" },
+      { "fromIndex": 1, "toIndex": 4, "order": 1, "type": "covalent" },
+      { "fromIndex": 1, "toIndex": 5, "order": 1, "type": "covalent" }
+    ]
+  },
+  {
+    "id": "tio2",
+    "formula": "TiO₂",
+    "nameTr": "Titanyum Dioksit",
+    "nameEn": "Titanium Dioxide",
+    "elements": { "Ti": 1, "O": 2 },
+    "bondType": "ionic",
+    "deltaElectronegativity": 1.9,
+    "descriptionTr": "Yüksek kırılma indisine sahip parlak beyaz pigment ve güneş kremlerinde UV engelleyici olarak kullanılan yarı iletken bileşik.",
+    "descriptionEn": "High refractive index white pigment and UV blocking semiconductor widely used in sunscreens.",
+    "geometry": "Doğrusal / Rutil Birimi (Linear Unit)",
+    "atoms": [
+      { "elementSymbol": "Ti", "position": [0, 0, 0], "label": "Ti⁴⁺", "cpkColor": "#bfc2c7" },
+      { "elementSymbol": "O", "position": [-1.35, 0, 0], "label": "O₁²⁻", "cpkColor": "#ff0d0d" },
+      { "elementSymbol": "O", "position": [1.35, 0, 0], "label": "O₂²⁻", "cpkColor": "#ff0d0d" }
+    ],
+    "bonds": [
+      { "fromIndex": 0, "toIndex": 1, "order": 2, "type": "ionic" },
+      { "fromIndex": 0, "toIndex": 2, "order": 2, "type": "ionic" }
+    ]
+  },
+  {
+    "id": "mgo",
+    "formula": "MgO",
+    "nameTr": "Magnezyum Oksit",
+    "nameEn": "Magnesium Oxide",
+    "elements": { "Mg": 1, "O": 1 },
+    "bondType": "ionic",
+    "deltaElectronegativity": 2.13,
+    "descriptionTr": "Refrakter (yüksek ısıya dayanıklı) fırın tuğlalarında kullanılan 2852 °C erime noktasına sahip iyonik bileşik.",
+    "descriptionEn": "Refractory ceramic material with a melting point of 2852 °C used in high-temperature crucibles.",
+    "geometry": "İyonik Çift (Ionic Dipole)",
+    "atoms": [
+      { "elementSymbol": "Mg", "position": [-0.9, 0, 0], "label": "Mg²⁺", "cpkColor": "#8aff00" },
+      { "elementSymbol": "O", "position": [0.9, 0, 0], "label": "O²⁻", "cpkColor": "#ff0d0d" }
+    ],
+    "bonds": [
+      { "fromIndex": 0, "toIndex": 1, "order": 2, "type": "ionic" }
+    ]
+  }
+]

@@ -1,0 +1,174 @@
+{
+  "H": [
+    {
+      "massNumber": 1,
+      "protons": 1,
+      "neutrons": 0,
+      "abundancePercent": 99.985,
+      "halfLifeText": "Kararlı (Stable)",
+      "decayMode": "stable",
+      "descriptionTr": "Protiyum. Evrendeki en yaygın nükleer form; 1 proton ve 0 nötron.",
+      "descriptionEn": "Protium. Most abundant isotope in the universe; 1 proton and 0 neutrons."
+    },
+    {
+      "massNumber": 2,
+      "protons": 1,
+      "neutrons": 1,
+      "abundancePercent": 0.015,
+      "halfLifeText": "Kararlı (Stable)",
+      "decayMode": "stable",
+      "descriptionTr": "Döteryum (Ağır Hidrojen). Ağır su (D₂O) ve nükleer füzyon araştırmalarında kullanılır.",
+      "descriptionEn": "Deuterium (Heavy Hydrogen). Used in heavy water reactors and fusion research."
+    },
+    {
+      "massNumber": 3,
+      "protons": 1,
+      "neutrons": 2,
+      "abundancePercent": 0.0,
+      "halfLifeText": "12.32 yıl",
+      "halfLifeSeconds": 388512000,
+      "decayMode": "beta_minus",
+      "daughterProduct": "³He",
+      "decayEnergyMeV": 0.0186,
+      "descriptionTr": "Trityum. Radyoaktif hidrojen izotopu. Kendiliğinden parlayan saat kadranlarında ve nükleer silahlarda kullanılır.",
+      "descriptionEn": "Tritium. Radioactive isotope of hydrogen. Used in self-powered radioluminescent lighting."
+    }
+  ],
+  "C": [
+    {
+      "massNumber": 12,
+      "protons": 6,
+      "neutrons": 6,
+      "abundancePercent": 98.93,
+      "halfLifeText": "Kararlı (Stable)",
+      "decayMode": "stable",
+      "descriptionTr": "Standart atom kütlesi biriminin (1 u = ¹²C kütlesinin 1/12'si) referansıdır.",
+      "descriptionEn": "Reference standard for atomic mass units (1 u = 1/12th of mass of ¹²C)."
+    },
+    {
+      "massNumber": 13,
+      "protons": 6,
+      "neutrons": 7,
+      "abundancePercent": 1.07,
+      "halfLifeText": "Kararlı (Stable)",
+      "decayMode": "stable",
+      "descriptionTr": "Nükleer Manyetik Rezonans (¹³C NMR) spektroskopisinde yapı aydınlatma için kullanılır.",
+      "descriptionEn": "Used in Carbon-13 NMR spectroscopy for organic structural determination."
+    },
+    {
+      "massNumber": 14,
+      "protons": 6,
+      "neutrons": 8,
+      "abundancePercent": 0.0000000001,
+      "halfLifeText": "5,730 yıl",
+      "halfLifeSeconds": 180700000000,
+      "decayMode": "beta_minus",
+      "daughterProduct": "¹⁴N",
+      "decayEnergyMeV": 0.156,
+      "descriptionTr": "Radyokarbon tarihleme yönteminin temeli. Arkeolojik bulguların yaşını tayin etmekte kullanılır.",
+      "descriptionEn": "Foundation of radiocarbon dating used to determine the age of carbonaceous materials up to 50,000 years."
+    }
+  ],
+  "K": [
+    {
+      "massNumber": 39,
+      "protons": 19,
+      "neutrons": 20,
+      "abundancePercent": 93.26,
+      "halfLifeText": "Kararlı (Stable)",
+      "decayMode": "stable",
+      "descriptionTr": "Potasyumun en yaygın doğal izotopu.",
+      "descriptionEn": "Most abundant natural isotope of potassium."
+    },
+    {
+      "massNumber": 40,
+      "protons": 19,
+      "neutrons": 21,
+      "abundancePercent": 0.012,
+      "halfLifeText": "1.248 milyar yıl",
+      "decayMode": "beta_minus",
+      "daughterProduct": "⁴⁰Ca / ⁴⁰Ar",
+      "decayEnergyMeV": 1.31,
+      "descriptionTr": "Muz ve insan vücudundaki doğal arka plan radyasyonunun ana kaynağı. Potasyum-Argon jeokronolojisinde kullanılır.",
+      "descriptionEn": "Primary source of natural radioactivity in human body and bananas. Used in K-Ar geochronology."
+    }
+  ],
+  "I": [
+    {
+      "massNumber": 127,
+      "protons": 53,
+      "neutrons": 74,
+      "abundancePercent": 100.0,
+      "halfLifeText": "Kararlı (Stable)",
+      "decayMode": "stable",
+      "descriptionTr": "Tiroid hormonu sentezi için zorunlu olan tek doğal kararlı iyot izotopu.",
+      "descriptionEn": "Only naturally occurring stable iodine isotope; essential for thyroid hormones."
+    },
+    {
+      "massNumber": 131,
+      "protons": 53,
+      "neutrons": 78,
+      "abundancePercent": 0.0,
+      "halfLifeText": "8.02 gün",
+      "decayMode": "beta_minus",
+      "daughterProduct": "¹³¹Xe",
+      "decayEnergyMeV": 0.971,
+      "descriptionTr": "Nükleer tıpta tiroid kanseri ve hipertiroidizm tedavisinde kullanılan radyoizotop.",
+      "descriptionEn": "Major radioisotope used in nuclear medicine to treat hyperthyroidism and thyroid cancer."
+    }
+  ],
+  "Rn": [
+    {
+      "massNumber": 222,
+      "protons": 86,
+      "neutrons": 136,
+      "abundancePercent": 100.0,
+      "halfLifeText": "3.82 gün",
+      "decayMode": "alpha",
+      "daughterProduct": "²¹⁸Po",
+      "decayEnergyMeV": 5.59,
+      "descriptionTr": "Uranyum bozunma zincirinde oluşan, alfa ışıması yapan ağır soy gaz. Kapalı ortamlarda birikerek akciğer sağlığını tehdit edebilir.",
+      "descriptionEn": "Naturally occurring radioactive noble gas emitting alpha particles from uranium decay."
+    }
+  ],
+  "Ra": [
+    {
+      "massNumber": 226,
+      "protons": 88,
+      "neutrons": 138,
+      "abundancePercent": 100.0,
+      "halfLifeText": "1,600 yıl",
+      "decayMode": "alpha",
+      "daughterProduct": "²²²Rn",
+      "decayEnergyMeV": 4.87,
+      "descriptionTr": "Marie ve Pierre Curie tarafından keşfedilen, tarihi radyasyon birimi 'Curie'nin tanımlandığı alfa yayıcı radyoaktif element.",
+      "descriptionEn": "Discovered by Marie & Pierre Curie; historically defined the Curie unit of radioactivity."
+    }
+  ],
+  "U": [
+    {
+      "massNumber": 235,
+      "protons": 92,
+      "neutrons": 143,
+      "abundancePercent": 0.72,
+      "halfLifeText": "703.8 milyon yıl",
+      "decayMode": "alpha",
+      "daughterProduct": "²³¹Th",
+      "decayEnergyMeV": 4.68,
+      "descriptionTr": "Termal nötronlarla zincirleme fisyon reaksiyonu verebilen tek doğal fisil izotop. Nükleer santraller ve silahlarda yakıttır.",
+      "descriptionEn": "The only naturally occurring fissile isotope capable of sustaining an induced nuclear chain reaction."
+    },
+    {
+      "massNumber": 238,
+      "protons": 92,
+      "neutrons": 146,
+      "abundancePercent": 99.27,
+      "halfLifeText": "4.468 milyar yıl",
+      "decayMode": "alpha",
+      "daughterProduct": "²³⁴Th",
+      "decayEnergyMeV": 4.27,
+      "descriptionTr": "Yer kabuğundaki uranyumun %99'unu oluşturur. Yarılanma ömrü Dünya'nın yaşına (~4.5 milyar yıl) yakındır.",
+      "descriptionEn": "Accounts for >99% of natural uranium. Its half-life roughly equals the age of Earth (~4.54 billion years)."
+    }
+  ]
+}
