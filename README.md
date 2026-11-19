@@ -62,6 +62,42 @@
 ![Kimya Avcısı Quiz Modu](./docs/screenshots/07-chemistry-hunter-quiz.png)
 *15 saniyelik süreli soru bankası, kombo puanlama, 3D masada elementi bulma ve Nobel Kimyageri başarı rozetleri.*
 
+---
+
+### 🔬 8. Atomik ve Kimyasal Özellikler Paneli
+![Atomik Özellikler Matrisi](./docs/screenshots/08-element-atomic-properties.png)
+*Proton, nötron, elektron sayıları, oksidasyon basamakları, atomik yarıçap, iyonlaşma enerjisi ve elektron ilgisi.*
+
+---
+
+### 🌈 9. Yüksek Çözünürlüklü Optik Spektrogram Analizi
+![Optik Spektrum](./docs/screenshots/09-optical-emission-spectrum.png)
+*380-750 nm arası spesifik emisyon spektrum çizgileri, deşarj tüpü plazma ışıması ve foton enerji değerleri.*
+
+---
+
+### ☢️ 10. İzotoplar ve Radyoaktiflik İncelemesi
+![İzotoplar ve Radyoaktivite](./docs/screenshots/10-isotopes-and-radioactivity.png)
+*Kararlı ve radyoaktif izotoplar listesi, doğal bolluk yüzdeleri, yarılanma ömürleri ve bozunma modları.*
+
+---
+
+### 💎 11. Kristal Kafes ve Katı Hâl Yapısı
+![Kristal Kafes](./docs/screenshots/11-crystal-lattice-structure.png)
+*FCC, BCC, HCP ve Elmas birim hücreleri ile atomların katı haldeki 3B geometrik yerleşimi.*
+
+---
+
+### ⭕ 12. Elektron Kabuk Dizilim Şeması (Bohr Diagramı)
+![Elektron Kabuk Şeması](./docs/screenshots/12-electron-shell-diagram.png)
+*K, L, M, N, O, P, Q katmanlarındaki elektron dağılımını gösteren vektörel SVG orbital diyagramı.*
+
+---
+
+### 📜 13. Keşif Tarihçesi ve Endüstriyel Kullanım Alanları
+![Kullanım ve Keşif](./docs/screenshots/13-element-uses-and-history.png)
+*Elementin keşif yılı, kaşifi, yaygın endüstriyel kullanım alanları ve evren/yer kabuğundaki bolluk oranları.*
+
 </div>
 
 ---

@@ -62,6 +62,42 @@
 ![Chemistry Hunter Quiz](./docs/screenshots/07-chemistry-hunter-quiz.png)
 *15-second timed quiz questions, combo multipliers, instant 3D table inspection, and Nobel Chemist achievement titles.*
 
+---
+
+### 🔬 8. Detailed Atomic & Chemical Properties Matrix
+![Atomic Properties Matrix](./docs/screenshots/08-element-atomic-properties.png)
+*Proton, neutron, and electron counts, oxidation states, atomic radii, ionization energy, and electron affinity.*
+
+---
+
+### 🌈 9. High-Precision Optical Emission Spectrogram
+![Optical Spectrum](./docs/screenshots/09-optical-emission-spectrum.png)
+*Specific emission lines from 380 to 750 nm, discharge tube plasma chromaticity, and photon energy metrics.*
+
+---
+
+### ☢️ 10. Isotopes & Radioactivity Analysis
+![Isotopes and Radioactivity](./docs/screenshots/10-isotopes-and-radioactivity.png)
+*Comprehensive list of stable and radioisotopes, natural abundances, half-lives, and decay classification.*
+
+---
+
+### 💎 11. Solid-State Crystal Lattice Viewer
+![Crystal Lattice](./docs/screenshots/11-crystal-lattice-structure.png)
+*3D unit cells (FCC, BCC, HCP, Diamond) showing spatial atomic coordination in the solid state.*
+
+---
+
+### ⭕ 12. Electron Shell Orbital Diagram (Bohr Rings)
+![Electron Shell Diagram](./docs/screenshots/12-electron-shell-diagram.png)
+*Vector SVG orbital diagram depicting electron population across K, L, M, N, O, P, Q shells.*
+
+---
+
+### 📜 13. Discovery History & Industrial Applications
+![Uses and History](./docs/screenshots/13-element-uses-and-history.png)
+*Discovery year, discoverers, modern industrial applications, and planetary/cosmic abundance ratios.*
+
 </div>
 
 ---
