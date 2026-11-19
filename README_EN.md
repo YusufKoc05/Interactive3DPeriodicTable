@@ -191,8 +191,8 @@
 
 ```bash
 # Clone the repository
-git clone https://github.com/YusufKoc05/periodic-table-3d.git
-cd periodic-table-3d
+git clone https://github.com/YusufKoc05/Interactive3DPeriodicTable.git
+cd Interactive3DPeriodicTable
 
 # Install dependencies
 npm install --legacy-peer-deps
